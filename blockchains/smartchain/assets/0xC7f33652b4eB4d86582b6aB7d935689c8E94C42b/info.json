@@ -1,9 +1,14 @@
 {
-  "name": "BNB",
-  "symbol": "BNB",
-  "network": "BNB Smart Chain Mainnet",
-  "chainId": 56,
-  "address": "0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
-  "verified": true,
-  "explorer": "https://bscscan.com/address/0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b"
+    "name": "BNB",
+    "website": "https://bnbchain.org/",
+    "description": "BNB is the native token used on BNB Chain.",
+    "explorer": "https://bscscan.com/token/0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
+    "type": "BEP20",
+    "symbol": "BNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
+    "tags": [
+        "utility"
+    ]
 }

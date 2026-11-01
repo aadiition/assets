@@ -1,10 +1,25 @@
 {
-  "website": "https://tether.to",
-  "description": "Tether USD - Official stablecoin on Binance Smart Chain",
-  "explorer": "https://bscscan.com/token/0x3F0E0A9ee24E8bfF5199312630833aFF27FAa034",
-  "research": "https://tether.to/en/",
-  "symbol": "USDT",
-  "decimals": 6,
-  "status": "active",
-  "id": "tether"
+    "name": "Tether USD",
+    "website": "https://tether.to",
+    "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+    "explorer": "https://bscscan.com/token/0x3F0E0A9ee24E8bfF5199312630833aFF27FAa034",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3F0E0A9ee24E8bfF5199312630833aFF27FAa034",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/tether/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/tether/"
+        }
+    ]
 }
